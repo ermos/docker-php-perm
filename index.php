@@ -4,7 +4,6 @@
     </head>
     <body>
           <?php
-            echo exec('whoami');
             touch('people.txt');
         ?>
     </body>
